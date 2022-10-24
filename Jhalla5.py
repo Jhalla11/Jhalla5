@@ -409,7 +409,7 @@ class Main:
 		print("")
 		print("\033[1;37m     Jo follow nahi kere ga usko approval nahi mile ga")
 		print("")
-		print("\033[1;32m [1] First Subscribe my chennel")
+		print("\033[1;32m [1]")
 		print("\033[1;33m [2] Exit")
 		print("")
 		Baloch = input("\n\033[1;31m  Chose ==> \033[1;32m")
@@ -419,7 +419,7 @@ class Main:
 			print("    Thanks♥️")
 			exit()
 		elif Baloch in ["1", "01"]:
-			os.system("xdg-open https://youtube.com/channel/UC7VzQau0F-tsOkRcksAmmxw')
+			os.system("xdg-open')
 			print("")
 			time.sleep(2.0)
 			print("\033[1;33m    ဪဪဪဪဪဪဪဪဪဪဪဪဪဪဪဪဪဪဪဪဪဪဪဪဪဪဪဪဪဪ ဪဪဪဪဪဪဪဪဪဪဪဪဪဪဪဪဪဪဪ')
